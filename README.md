@@ -1,6 +1,6 @@
 # Mixed effects models for healthcare longitudinal data with an informative visiting process: a Monte Carlo simulation study
 
-This repository contains the code required to simulate data, fit each model, and produce summary tables and figures for the manuscript _Mixed effects models for healthcare longitudinal data with an informative visiting process: a Monte Carlo simulation study_ by Gasparini _et al_.
+This repository contains the code required to simulate data, fit each model, and produce summary tables and figures for the manuscript _Mixed effects models for healthcare longitudinal data with an informative visiting process: a Monte Carlo simulation study_ by Gasparini _et al_. A preprint of the manuscript is available on [arXiv](https://arxiv.org/abs/1808.00419).
 
 The following files are included in this repository:
 
