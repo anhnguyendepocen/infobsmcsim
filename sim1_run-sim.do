@@ -1,7 +1,9 @@
+// Set working directory
+cd "Z:\jointmodels\projects\Informative observation process"
 clear
 
 // Local values
-local totdgm = 6
+local totdgm = 10
 local B = 1000
 
 // Create postfile

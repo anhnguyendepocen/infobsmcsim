@@ -6,5 +6,5 @@ The following files are included in this repository:
 
 1. `sim1_make-sim-data.do`, a Stata `.do` file used to simulate the data under each data-generating mechanism;
 2. `sim1_run-sim.do`, a Stata `.do` file used to fit the models and save the results;
-3. six datasets in Stata format from a single replication of each data-generating mechanism (`df_1_1.dta` for scenario 1, `df_2_1.dta` for scenario 2, and so on);
+3. ten (10) datasets in Stata format from a single replication of each data-generating mechanism (`df_1_1.dta` for scenario 1, `df_2_1.dta` for scenario 2, and so on);
 4. `sim1_mf.R`, an R script used to summarise results from the simulation study and produce tables and figures included in the manuscript.
